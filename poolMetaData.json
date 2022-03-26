@@ -2,5 +2,6 @@
   "name": "ADA TECHNOTES ASIA POOL",
   "description": "Let's stake together!",
   "ticker": "ATA",
-  "homepage": "https://www.technotes.asia/adapool"
+  "homepage": "https://www.technotes.asia/adapool",
+  "extended":"http://duck-cloud.biz/pool/extended.json"
 }
